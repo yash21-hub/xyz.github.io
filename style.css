@@ -1,0 +1,25 @@
+h1{
+    font-family: Algerian;
+    color: khaki;
+}
+p{
+    color: tomato;
+}
+body{
+    min-height: 600px;
+    background: white;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+div.box1{
+    background-color: cyan;
+    width: 100%;
+    
+}
+
+
+
